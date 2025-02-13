@@ -1,5 +1,9 @@
 {
-    "patches": [
-        "Patch-G.zip"
-    ]
+  "patches": ["Patch-G.zip"],
+  "sizes": {
+    "Patch-G.zip": {
+      "compressed": 14403000,
+      "extracted": 45000000
+    }
+  }
 }
